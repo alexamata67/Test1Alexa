@@ -3,7 +3,7 @@ body {
  background-color:rgb(223, 185, 223);
 }
 h1 {
-     color: rgb(219, 12, 219);
+     color:red;
      font-size: 70px;
      font-family: Georgia, 'Times New Roman', Times, serif;
      font-style: italic;
@@ -70,7 +70,7 @@ h6{
     
 }
 .first{
-    color:rgb(228, 18, 18);
+    color:red;
     font-size:40px;
     font-family:Fantasy;
     text-align:center;
@@ -83,5 +83,6 @@ h6{
     font-style: initial;
     text-align: center;
 }
+
 
 </style>
