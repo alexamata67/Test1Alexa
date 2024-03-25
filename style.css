@@ -69,4 +69,19 @@ h6{
     color: rgb(230, 26, 26);
     
 }
+.first{
+    color:rgb(228, 18, 18);
+    font-size:40px;
+    font-family:Fantasy;
+    text-align:center;
+}
+.img{
+    text-align:center;
+}
+.txt{
+    font-size: larger;
+    font-style: initial;
+    text-align: center;
+}
+
 </style>
