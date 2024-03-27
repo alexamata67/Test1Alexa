@@ -1,4 +1,3 @@
-<style>
 body {
  background-color:rgb(223, 185, 223);
 }
@@ -84,10 +83,11 @@ h6{
     font-style: initial;
     text-align: center;
 }
-first.hover{
+header:hover h1{
      color:skyblue
+
 }
+     
 
 
 
-</style>
