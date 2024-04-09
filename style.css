@@ -6,6 +6,7 @@ h1 {
      font-size: 70px;
      font-family: Georgia, 'Times New Roman', Times, serif;
      font-style: italic;
+     text-align:center;
 }
 
 h2 {
@@ -86,6 +87,9 @@ h6{
 header:hover h1{
      color:skyblue
 
+}
+.large-img{
+     max-width:50px;
 }
      
 
